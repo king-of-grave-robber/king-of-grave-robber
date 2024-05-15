@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b35c8ee98d5386746a2198292c8abba5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundPrefab: {fileID: 8360240102317230623, guid: 9f4fba27e741b0247a75f9d0c53d4005, type: 3}
+  - historicalSite1Prefab: {fileID: 8440110491144364455, guid: 77d8ef11f32472d458b56c3ba9b0d263, type: 3}
+  - historicalSite2Prefab: {fileID: 4062096323496055259, guid: 6d783d3436958824a9eba4f49914bdd4, type: 3}
+  - historicalSite3Prefab: {fileID: 8211984098640682731, guid: 1cf90ad515bfa444db6425f16e3f8c15, type: 3}
+  - historicalSite4Prefab: {fileID: 4887691453510060083, guid: d6cdaff20a5959c47b5fd79284c48d53, type: 3}
+  - historicalSite5Prefab: {fileID: 6032021356471354834, guid: 85b2e36179b47d94687ab21679d75d11, type: 3}
+  - tombPrefab: {fileID: 6244069477839303294, guid: a2cd511e6747c2446a8ab355452a407b, type: 3}
+  - tree1Prefab: {fileID: 2369996931464192460, guid: a1826eeca5f01e84fad8dfc6be865c18, type: 3}
+  - tree2Prefab: {fileID: 7840123576435941101, guid: 35009b37a13128048bed33ef74aaf88c, type: 3}
+  - tree3Prefab: {fileID: 6062126876417125266, guid: 4675912be3b3c8445bede288606a25a2, type: 3}
+  - tree4Prefab: {fileID: 8092668492406722507, guid: 8a766d9b506b6d449bd13a463dbb789a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
